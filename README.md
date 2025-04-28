@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://unity.com" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-svg-vector.svg" alt="unity" width="45" height="45"/>
-<a href="https://firebase.google.com/" rel="noreferrer" src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck.png" alt="firebase" width="45" height="45"/>
+<a href="https://firebase.google.com/" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck.png" alt="firebase" width="45" height="45"/>
 <a href="https://vuejs.org" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/vue-icon-512x439-f6q4zral.png" alt="vue" width="50" height="45"/>
 <a href="https://wails.io" rel="noreferrer"> <img src="https://github.com/wailsapp/wails/blob/master/assets/images/logo-universal.png" alt="wails" width="50" height="50"/>
 <a href="https://expressjs.com" rel="noreferrer"> <img src="https://images.credly.com/images/1c2c86e1-16ce-4e4d-a425-d1ac96bb026d/express.png" alt="express" width="45" height="45"/>
